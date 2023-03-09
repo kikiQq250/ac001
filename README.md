@@ -1,2 +1,3 @@
 # ac00
-bkebi
+bekebi
+每日水贴
